@@ -64,4 +64,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: reekja-hub/taski_backend:latest
+          tags: reekja/taski_backend:latest
